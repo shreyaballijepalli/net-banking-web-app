@@ -8,10 +8,6 @@
       "description": "Heroku buildpack for deploying Haskell apps",
       "value": "https://github.com/mietek/haskell-on-heroku"
     },
-    "TUTORIAL_HOME": {
-      "description": "Welcome message",
-      "required": false,
-      "value": "Welcome to Haskell on Heroku"
-    }
+
   }
 }
